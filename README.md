@@ -1,1 +1,1 @@
-# CardId
+Java Card Application
